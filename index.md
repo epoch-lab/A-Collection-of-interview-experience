@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Personal Bolg"
+  name: "一个牛客面经的合集"
   text: "Blog"
-  tagline: My great project tagline
+  # tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
