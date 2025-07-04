@@ -12,3 +12,8 @@
 - 沙箱的作用（这里没答好）
 - 样式污染怎么解决。
 - 因为采用的框架是qiankun，问了还有哪些方案以及优劣。
+
+#### Webpack
+- Webpack 的 Tree Shaking 是如何工作的？
+- 如何确保它生效？
+- tree-shaking 原理是什么？
