@@ -14,6 +14,18 @@
 - 因为采用的框架是qiankun，问了还有哪些方案以及优劣。
 
 #### Webpack
+
+##### Tree Shaking
 - Webpack 的 Tree Shaking 是如何工作的？
 - 如何确保它生效？
 - tree-shaking 原理是什么？
+
+##### 模块化
+8. JS 模块化理解
+9. CommonJS、ES 区别及实现原理
+10. Webpack 理解
+
+##### Loader、Plugin
+11. Loader、Plugin 区别
+12. 自定义 Loader 和 Plugin 开发流程
+13. Webpack 生命周期及 Tapable 事件流框架
