@@ -18,6 +18,7 @@ export default defineConfig({
   lang: "zh-CN",
   ignoreDeadLinks: true, // 防止因死链而失败
   lastUpdated: true,
+  srcExclude: ["src/**/*.js", "src/**/*.ts", "src/**/*.html"],
   head: [
     [
       "link",

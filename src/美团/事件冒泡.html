@@ -12,6 +12,7 @@
     <script>
             document.getElementById('A').addEventListener('click', () => { console.log('A') });
             document.getElementById('B').addEventListener('click', () => { console.log('B') }, true);
+            // 这里加了true，表示捕获阶段，所以会先执行B，再执行A
     </script>
 </body>
 </html>
