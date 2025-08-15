@@ -7,7 +7,6 @@
 
 防抖、节流
 
-
 ```js
 const func = (fn, delay=300) => {
     let timer = null;
@@ -36,3 +35,9 @@ const func = (fn, delay=300) => {
     }
 }
 ```
+
+
+js对象比较判等
+
+下划线转小驼峰
+
