@@ -1,8 +1,10 @@
+标签：暑期实习
+
 # 腾讯cdg一面
 
-- ![image](assets/image-20250721230840-bm5wlct.png)
-- ![image](assets/image-20250721230854-4hw2x73.png)
-- ![image](assets/image-20250721230910-vyoea8o.png)
+- ![image](../../assets/liu/image-20250721230840-bm5wlct.png)
+- ![image](../../assets/liu/image-20250721230854-4hw2x73.png)
+- ![image](../../assets/liu/image-20250721230910-vyoea8o.png)
 - axios拦截器
 - 拦截器它是怎么实现的？就他他原理是怎么样的？
 - get static propos和get serversidepropos这两个区别是什么
